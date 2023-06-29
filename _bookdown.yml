@@ -1,0 +1,8 @@
+book_filename: "nba-cba-2023"
+chapter_name: "Article "
+repo: https://github.com/atlhawksfanatic/NBA-CBA-2023
+output_dir: docs
+keep_tex: true
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
+toc_depth: 3
